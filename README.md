@@ -10,5 +10,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/aniket-patel-b910b1192">LinkedIn</a> [Gmail](mailto:aniketpatel26199@gmail.com) 💼
 - 😄 Pronouns: He/Him
 
+
 ![GitHub followers](https://img.shields.io/github/followers/AniketCPatel?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/AniketCPatel/AniketCPatel?style=social)
