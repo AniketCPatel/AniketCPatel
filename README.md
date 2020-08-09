@@ -5,7 +5,7 @@
 <br>
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on: Self Development, Corporate Skillsm📹 ✍🏾
+- 🔭 I’m currently working on: Self Development, Corporate Skills 📹 ✍🏾
 - 🌱 I’m currently learning: ES7, MySQL
 - 🤔 I’m looking for help with: Javascript
 - 💬 Ask me about: Flask, Python, Front-End(HTML+CSS+BOOTSTRAP), Unix Scripting
