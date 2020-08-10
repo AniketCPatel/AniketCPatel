@@ -1,7 +1,6 @@
 <h1 align="center">Hi Folks<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Aniket</h1>
 <h3 align="center">Bachelor of Engineering, Computer Science Engineering(CSE) (2020 Graduate)</h3>
 <br/>
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=AniketCPatel alt=ACP height="25" width="150"></p>
 <img align="right" width="250" height="350" src="https://github.com/AniketCPatel/AniketCPatel/blob/master/Aniket_Avtar1.png" alt="banner that says Aniket Patel - software engineer alongside a cartoon illustration of Aniket">
 <br>
 <br>
@@ -46,5 +45,5 @@ Here are some ideas to get you started:
 <a href=https://www.linkedin.com/in/aniket-patel-b910b1192 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="aniket" height="40" width="40" /></a>
 <a href=https://www.hackerrank.com/aniketpatel26199 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg alt="aniket" height="40" width="40" /></a>
 </p>
-
+<p align="center"> <img src=https://komarev.com/ghpvc/?username=AniketCPatel alt=ACP height="25" width="150"></p>
 ❤ From [Aniket Patel](https://github.com/AniketCPatel) <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
