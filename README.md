@@ -37,4 +37,14 @@ Here are some ideas to get you started:
  <img style="margin: auto;" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt=vscode width="60" height="60"/>
 </p>
 
+<p align="center">
+	<img style="margin: auto;" src=https://github-readme-stats.vercel.app/api?username=AniketCPatel&show_icons=true alt=aniket /> 
+</p>
+
+<p align="center">
+<a href=https://www.facebook.com/profile.php?id=100007857766210 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg alt="aniket" height="40" width="40" /></a>
+<a href=https://www.linkedin.com/in/aniket-patel-b910b1192 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="aniket" height="40" width="40" /></a>
+<a href=https://www.hackerrank.com/aniketpatel26199 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg alt="aniket" height="40" width="40" /></a>
+</p>
+
 ❤ From [Aniket Patel](https://github.com/AniketCPatel) <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
