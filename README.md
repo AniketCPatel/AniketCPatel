@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning: Competitive Programming, MySQL
 - 🤔 I’m looking for help with: Javascript
 - 💬 Ask me about: Flask, Python, Front-End(HTML+CSS+BOOTSTRAP), Unix Scripting
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/aniket-patel-b910b1192">LinkedIn</a> [Gmail](mailto:aniketpatel26199@gmail.com) 💼
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/aniket-patel-b910b1192">LinkedIn</a> [Gmail](mailto:aniketpatel26199@gmail.com) <a href="https://www.hackerrank.com/aniketpatel26199">Hackerrank</a> 💼
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Brown Belt-Karate Kiddo 🥋
