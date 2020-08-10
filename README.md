@@ -37,6 +37,4 @@ Here are some ideas to get you started:
  <img style="margin: auto;" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt=vscode width="60" height="60"/>
 </p>
 
-<p>
 ❤ From [Aniket Patel](https://github.com/AniketCPatel) <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-</p>
