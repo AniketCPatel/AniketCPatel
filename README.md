@@ -23,16 +23,20 @@ Here are some ideas to get you started:
 
 <h3>Skills and Tools: </h3>
 <p align="left">
-	<img style="margin: auto;" src=https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg alt=java width="60" height="60"/> 
 	<img style="margin: auto;" src=https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg alt=python width="60" height="60"/> 
 	<img style="margin: auto;" src=https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg alt=html5 width="60" height="60"/>
-  <img style="margin: auto;" src=https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg alt=css3 width="60" height="60"/>
-  <img style="margin: auto;" src=https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg alt=bootstrap width="60" height="60"/>
+  	<img style="margin: auto;" src=https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg alt=css3 width="60" height="60"/>
+  	<img style="margin: auto;" src=https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg alt=bootstrap width="60" height="60"/>
 	<img style="margin: auto;" src=https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg alt=mysql width="60" height="60"/>
- <img style="margin: auto;" src=https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg alt=github width="60" height="60"/>
+	<img style="margin: auto;" src=https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg alt=unix width="60" height="60"/>
+ 	<img style="margin: auto;" src=https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg alt=github width="60" height="60"/>
 </p>
-<h3> IDE's  </h3>
+<h3>IDE's  </h3>
 <p align="left">
  <img style="margin: auto;" src=https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg alt=pycharm width="60" height="60"/>
  <img style="margin: auto;" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt=vscode width="60" height="60"/>
+</p>
+
+<p>
+❤ From [Aniket Patel](https://github.com/AniketCPatel) <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 </p>
