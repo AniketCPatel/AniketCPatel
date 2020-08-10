@@ -45,5 +45,5 @@ Here are some ideas to get you started:
 <a href=https://www.linkedin.com/in/aniket-patel-b910b1192 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="aniket" height="40" width="40" /></a>
 <a href=https://www.hackerrank.com/aniketpatel26199 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg alt="aniket" height="40" width="40" /></a>
 </p>
-<p align="center"> <img src=https://komarev.com/ghpvc/?username=AniketCPatel alt=ACP height="25" width="150"></p>
+
 ❤ From [Aniket Patel](https://github.com/AniketCPatel) <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
