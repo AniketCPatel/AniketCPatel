@@ -7,10 +7,10 @@
 <br>
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on: Self Development, Corporate Skills 📹 ✍🏾
-- 🌱 I’m currently learning: Competitive Programming, MySQL
+- 🔭 I’m currently working on: Reactjs, Bootstrap,  📹 ✍🏾
+- 🌱 I’m currently learning: Redux-Toolkit, Responsive Designing
 - 🤔 I’m looking for help with: Javascript
-- 💬 Ask me about: Flask, Python, Front-End(HTML+CSS+BOOTSTRAP), Unix Scripting
+- 💬 Ask me about: Front-End(HTML+CSS+BOOTSTRAP+JS+Reactjs),Flask, Python
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/aniket-patel-b910b1192">LinkedIn</a> [Gmail](mailto:aniketpatel26199@gmail.com) <a href="https://www.hackerrank.com/aniketpatel26199">Hackerrank</a> 💼
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Brown Belt-Karate Kiddo 🥋
@@ -18,18 +18,25 @@ Here are some ideas to get you started:
 <br/>
 <h3>Programming Languages: </h3>
 <p align="left">
+
+<img style="margin: auto;" src=https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg alt=js width="60" height="60"/>
  <img style="margin: auto;" src=https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg alt=python width="60" height="60"/>
 </p>
 
-<h3>Skills and Tools: </h3>
+<h3>Technologies, Library, Frameworks & Tools: </h3>
 <p align="left">
-	<img style="margin: auto;" src=https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg alt=python width="60" height="60"/> 
+<img style="margin: auto;" src=https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg alt=react width="60" height="60"/>
+
+<img style="margin: auto;" src=https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg alt=materialui width="60" height="60"/>
 	<img style="margin: auto;" src=https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg alt=html5 width="60" height="60"/>
   	<img style="margin: auto;" src=https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg alt=css3 width="60" height="60"/>
   	<img style="margin: auto;" src=https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg alt=bootstrap width="60" height="60"/>
 	<img style="margin: auto;" src=https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg alt=mysql width="60" height="60"/>
 	<img style="margin: auto;" src=https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg alt=unix width="60" height="60"/>
  	<img style="margin: auto;" src=https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg alt=github width="60" height="60"/>
+	<img style="margin: auto;" src=https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg alt=babel width="60" height="60"/>
+	<img style="margin: auto;" src=https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-original-wordmark.svg alt=codepen width="60" height="60"/>
+	<img style="margin: auto;" src=https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg alt=arduino width="60" height="60"/>
 </p>
 <h3>IDE's  </h3>
 <p align="left">
