@@ -6,7 +6,7 @@
 <br>
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on: Reactjs, Bootstrap  📹 ✍🏾
+- 🔭 I’m currently working on: Reactjs, Bootstrap
 - 🌱 I’m currently learning: Redux-Toolkit, Responsive Designing
 - 🤔 I’m looking for help with: Javascript
 - 💬 Ask me about: Front-End(HTML+CSS+BOOTSTRAP+JS+Reactjs),Flask, Python
