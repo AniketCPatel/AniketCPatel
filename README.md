@@ -1,5 +1,5 @@
 <h1 align="center">Hi Folks<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Aniket</h1>
-<h2 align="center">Frontend Developer (Systems Engineer) at TCS</h2>
+<h2 align="center">Frontend Developer (SYSTEMS ENGINEER) @TCS</h2>
 <br/>
 <img align="right" width="250" height="350" src="https://github.com/AniketCPatel/AniketCPatel/blob/master/Aniket_Avtar1.png" alt="banner that says Aniket Patel - software engineer alongside a cartoon illustration of Aniket">
 <br>
