@@ -1,0 +1,407 @@
+/* Import Font Styles */
+
+body {
+    font-family: "Comfortaa", sans-serif;
+    background-color: #f9f4e9;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    position: relative;
+}
+
+/* Container */
+.container {
+    width: 80%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Hero Section */
+.hero-section {
+    position: relative;
+    text-align: center;
+    color: white;
+    overflow: hidden;
+    height: 80vh;
+}
+
+/* Background Image */
+.hero-image {
+    position: relative;
+    /* Allows it to be positioned based on the normal flow */
+    bottom: 130px;
+    /* Adjust based on your layout */
+    z-index: 5;
+    /* Below the hero content */
+}
+
+/* Content on top of the image */
+.hero-content {
+    position: relative;
+    z-index: 1;
+    font-family: "Cinzel Decorative", serif;
+}
+
+/* Font Styling */
+.hero-content h1 {
+    font-size: 76px;
+    margin: 0;
+    font-weight: 500;
+}
+
+.hero-content p {
+    margin: 10px 0;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+/* Overlay for darkening effect */
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.4);
+    z-index: 0;
+}
+
+/* Curved Background */
+.curved-background {
+    position: absolute;
+    bottom: -110px;
+    left: 0;
+    width: 100%;
+    height: 100px;
+    background-color: #f9f4e9;
+    border-top-left-radius: 100% 50px;
+    border-top-right-radius: 100% 50px;
+    z-index: 1;
+    padding: 10.625rem 0;
+    /* Keep the existing padding */
+    -webkit-mask:
+        radial-gradient(var(--r1, 160%) var(--r2, 68.15%) at bottom, white 79.5%, transparent 80%) top left,
+        radial-gradient(var(--r1, 160%) var(--r2, 68.15%) at top, transparent 79.5%, white 80%) top center,
+        radial-gradient(var(--r1, 160%) var(--r2, 68.15%) at bottom, white 79.5%, transparent 80%) top right;
+
+    mask:
+        radial-gradient(var(--r1, 160%) var(--r2, 68.15%) at bottom, white 79.5%, transparent 80%) top left,
+        radial-gradient(var(--r1, 160%) var(--r2, 68.15%) at top, transparent 79.5%, white 80%) top center,
+        radial-gradient(var(--r1, 160%) var(--r2, 68.15%) at bottom, white 79.5%, transparent 80%) top right;
+
+    -webkit-mask-size: 33.4% 140%;
+    -webkit-mask-repeat: no-repeat;
+    mask-size: 33.4% 140%;
+    mask-repeat: no-repeat;
+
+    background-color: white;
+    /* Optional: adjust to see the dome effect */
+}
+
+.hero-section .hero-image {
+    width: 100%;
+    max-height: 600px;
+    object-fit: scale-down;
+}
+
+/* Event Details Section */
+.event-details {
+    text-align: center;
+    padding: 30px 0;
+    background-color: #fff;
+    /* White background for details */
+    border-radius: 10px;
+    /* Rounded corners */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    /* Shadow effect */
+    margin-bottom: 20px;
+    /* Space below the section */
+}
+
+.event-details .location h2 {
+    font-size: 2em;
+    margin-bottom: 10px;
+    font-family: "Cinzel Decorative", serif;
+}
+
+.invitation-text {
+    font-size: 1em;
+    color: #666;
+}
+
+.invitation-text h3 {
+    font-family: "Cinzel Decorative", serif;
+    color: #f51983;
+}
+
+/* Schedule Styles */
+.schedule {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin-top: 30px;
+    padding: 20px;
+}
+
+.schedule h2 {
+    text-align: center;
+    font-size: 2em;
+    margin-bottom: 20px;
+    font-family: "Cinzel Decorative", serif;
+}
+
+.schedule h3 {
+    margin-bottom: 30px;
+    font-family: "Cinzel Decorative", serif;
+    color: palevioletred;
+}
+
+.event-day {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 20px;
+}
+
+.date {
+    font-size: 1.5em;
+    flex: 0 0 100px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.vertical-divider {
+    width: 2px;
+    background-color: #ccc;
+    height: auto;
+    margin: 0 20px;
+    position: relative;
+}
+
+/* Modify the event-detail styles to fill the remaining space */
+.event-details-wrapper {
+    flex: 1;
+    /* Fill remaining space */
+    display: flex;
+    /* Flex for internal alignment */
+    flex-direction: column;
+    /* Stack event details vertically */
+}
+
+.event-detail {
+    flex: 1;
+    font-size: 1em;
+}
+
+.event-detail h3 {
+    font-size: 1.5em;
+    font-family: "Cinzel Decorative", serif;
+    margin: 0;
+}
+
+.event-detail p {
+    margin: 5px 0;
+    font-size: 0.9em;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 30px 0;
+    background-color: #f9f4e9;
+    font-size: 0.9em;
+    margin-top: 30px;
+}
+
+footer p {
+    margin: 10px 0;
+}
+
+footer a {
+    color: #6c63ff;
+    text-decoration: none;
+}
+
+/* Link Styling */
+a {
+    color: #5c3d5b;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+/* Icon Styling */
+.event-detail i {
+    margin-right: 5px;
+    color: #5c3d5b;
+}
+
+/* AU Logo Styling */
+.au-icon {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    max-width: 100px;
+    z-index: 2;
+    border-radius: 50%;
+    /* Assuming you can remove the background or use a transparent logo */
+    background: transparent;
+}
+
+/* Additional Styling for Font Awesome Icons */
+.icon {
+    margin-right: 5px;
+    color: #5c3d5b;
+}
+
+/* Styling for Button Icons */
+.btn-icon {
+    display: inline-flex;
+    align-items: center;
+}
+
+/* Updated Button Styling */
+.direction-button {
+    background-color: transparent;
+    color: #5c3d5b;
+    border: 2px solid #5c3d5b;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-family: "Pacifico", "Dancing Script", cursive;
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    border-radius: 25px;
+    /* Rounded corners */
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    /* Shadow effect */
+}
+
+.direction-button i {
+    margin-right: 8px;
+}
+
+/* Hover effect for the button */
+.direction-button:hover {
+    background-color: rgba(92, 61, 91, 0.1);
+    /* Light background on hover */
+    color: #f51983;
+    /* Lighter text color */
+    border-color: #f51983;
+    /* Lighter border color */
+}
+
+.direction-button:hover i {
+    color: #f51983;
+    /* Lighter icon color on hover */
+}
+
+/* Location Information */
+.location-info {
+    margin-top: 10px;
+    font-size: 0.9em;
+    color: #666;
+    text-align: left;
+    padding-left: 120px;
+    /* Aligns with the date column */
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .container {
+        width: 90%;
+    }
+
+    .hero-content h1 {
+        font-size: 2.5em;
+    }
+
+    .hero-content p {
+        font-size: 1em;
+    }
+
+    .curved-background {
+        height: 50px;
+        bottom: -25px;
+    }
+
+    .event-day {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .date,
+    .vertical-divider {
+        flex: none;
+        width: auto;
+        text-align: left;
+        margin-bottom: 10px;
+    }
+
+    .event-detail {
+        margin-left: 0;
+    }
+
+    button.direction-button {
+        font-size: 0.9em;
+        padding: 8px 16px;
+    }
+
+    .au-icon {
+        top: 10px;
+        left: 10px;
+        max-width: 80px;
+    }
+
+    .location-info {
+        padding-left: 0;
+        text-align: left;
+        margin-top: 20px;
+    }
+}
+
+/* AU Logo Styling */
+.header-top {
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    z-index: 10;
+}
+
+
+/* Music Controls Styling */
+.music-controls {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    z-index: 10;
+}
+
+.music-controls button {
+    background: none;
+    border: none;
+    font-size: 24px;
+    cursor: pointer;
+    color: #5c3d5b;
+}
+
+/* Scroll Up Button Styling */
+.scroll-up-btn {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    background-color: #f51983;
+    color: white;
+    border: none;
+    padding: 10px 17px;
+    border-radius: 50%;
+    font-size: 24px;
+    cursor: pointer;
+    display: none;
+    z-index: 10;
+}
+
+.scroll-up-btn:hover {
+    background-color: #5c3d5b;
+}
